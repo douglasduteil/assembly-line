@@ -1,0 +1,27 @@
+{
+  "name": "industrial-factory",
+  "version": "1.0.0",
+  "description": "Industrial factory: The industrial site to manufacture your repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/douglasduteil/industrial-factory.git"
+  },
+  "author": {
+    "name": "Douglas Duteil",
+    "email": "douglasduteil@gmail.com"
+  },
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/douglasduteil/industrial-factory/issues"
+  },
+  "homepage": "https://github.com/douglasduteil/industrial-factory",
+  "dependencies": {
+    "npm": "^2",
+    "resolve": "^1",
+    "yargs": "^1"
+  }
+}
