@@ -49,7 +49,7 @@ module.exports = function(data){
   extend(config.factories, cwdPkg[config.factory.prefix] && cwdPkg[config.factory.prefix]);
 
   return config;
-}
+};
 
 
 function extractedFactoriesFromDevDependencies(){

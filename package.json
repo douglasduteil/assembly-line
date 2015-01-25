@@ -1,14 +1,14 @@
 {
-  "name": "industrial-factory",
+  "name": "assembly-line",
   "version": "1.0.0",
-  "description": "Industrial factory: The industrial site to manufacture your repo",
+  "description": "Assembly line : process your repo from work station to work station",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/douglasduteil/industrial-factory.git"
+    "url": "https://github.com/douglasduteil/assembly-line.git"
   },
   "author": {
     "name": "Douglas Duteil",
@@ -16,9 +16,9 @@
   },
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/douglasduteil/industrial-factory/issues"
+    "url": "https://github.com/douglasduteil/assembly-line/issues"
   },
-  "homepage": "https://github.com/douglasduteil/industrial-factory",
+  "homepage": "https://github.com/douglasduteil/assembly-line",
   "dependencies": {
     "npm": "^2",
     "resolve": "^1",
